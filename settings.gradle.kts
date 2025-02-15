@@ -1,1 +1,1 @@
-rootProject.name = "VelocityTemplate"
+rootProject.name = "Velocity-TestPlugin"
